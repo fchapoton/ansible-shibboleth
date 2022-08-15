@@ -5,8 +5,8 @@
 This script show the login number per federated resource retrieved from loganalisys.py script for a specific federation.
 """
 
-from xml.dom.minidom import parse, parseString
-import sys, json
+from xml.dom.minidom import parse
+import sys
 import subprocess
 import os
 
